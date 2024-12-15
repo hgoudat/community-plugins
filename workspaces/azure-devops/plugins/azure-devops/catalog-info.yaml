@@ -2,7 +2,6 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: backstage-plugin-azure-devops
-  title: '@backstage-community/plugin-azure-devops'
   annotations:
     backstage.io/techdocs-ref: value
 spec:
